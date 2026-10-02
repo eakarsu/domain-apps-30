@@ -1,0 +1,10 @@
+{
+  "app": "ai-academic-accreditation-evidence-workspace",
+  "liveCredentialFill": true,
+  "liveLogin": true,
+  "inputOnlyDraftSaved": true,
+  "citationsPreserved": true,
+  "blankFormAiFill": true,
+  "filledFields": 8,
+  "model": "openai/gpt-5.6-terra"
+}

@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "syntheticRecordsOnly": true,
+  "filledFields": 8,
+  "draftSaved": true,
+  "model": "openai/gpt-5.6-terra",
+  "citations": 1,
+  "status": "draft"
+}

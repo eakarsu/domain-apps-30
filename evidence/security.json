@@ -1,0 +1,253 @@
+{
+  "apps": [
+    {
+      "number": 1,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 2,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 3,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 4,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 5,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 6,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 7,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 8,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 9,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 10,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 11,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 12,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 13,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 14,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 15,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 16,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 17,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 18,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 19,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 20,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 21,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 22,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 23,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 24,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 25,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 26,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 27,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 28,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 29,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    },
+    {
+      "number": 30,
+      "envPrivate": true,
+      "keyMatchesReference": true,
+      "noSourceOrClientKey": true,
+      "envGitIgnored": true,
+      "sharedDependencyGraph": true
+    }
+  ],
+  "dependencyGraphHash": "3a2ca354944a5e5e2ae15c7d2733f2589a2040400cec992ad8995a67a7b35834",
+  "productionVulnerabilities": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  }
+}

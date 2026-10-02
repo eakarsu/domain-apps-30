@@ -1,0 +1,662 @@
+[
+  {
+    "number": 1,
+    "slug": "ai-certified-payroll-and-prevailing-wage-control",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.1
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.0
+      }
+    }
+  },
+  {
+    "number": 2,
+    "slug": "ai-trade-credit-insurance-policy-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.1
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.9
+      }
+    }
+  },
+  {
+    "number": 3,
+    "slug": "ai-underground-storage-tank-compliance",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.0
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.9
+      }
+    }
+  },
+  {
+    "number": 4,
+    "slug": "ai-registered-apprenticeship-sponsor-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.7
+      },
+      "types": {
+        "ok": true,
+        "seconds": 2.0
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 7.0
+      }
+    }
+  },
+  {
+    "number": 5,
+    "slug": "ai-pet-travel-certificate-coordinator",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.8
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.9
+      }
+    }
+  },
+  {
+    "number": 6,
+    "slug": "ai-air-emissions-permit-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.6
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 7.0
+      }
+    }
+  },
+  {
+    "number": 7,
+    "slug": "ai-industrial-wastewater-pretreatment-control",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.8
+      },
+      "types": {
+        "ok": true,
+        "seconds": 2.0
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.6
+      }
+    }
+  },
+  {
+    "number": 8,
+    "slug": "ai-wetland-mitigation-bank-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.7
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.2
+      }
+    }
+  },
+  {
+    "number": 9,
+    "slug": "ai-water-rights-allocation-ledger",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.7
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.3
+      }
+    }
+  },
+  {
+    "number": 10,
+    "slug": "ai-dam-and-levee-safety-program",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.1
+      },
+      "types": {
+        "ok": true,
+        "seconds": 2.5
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.0
+      }
+    }
+  },
+  {
+    "number": 11,
+    "slug": "ai-conservation-easement-stewardship",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.5
+      },
+      "types": {
+        "ok": true,
+        "seconds": 2.2
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.2
+      }
+    }
+  },
+  {
+    "number": 12,
+    "slug": "ai-utility-right-of-way-acquisition",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.6
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.9
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.3
+      }
+    }
+  },
+  {
+    "number": 13,
+    "slug": "ai-radioactive-waste-lifecycle-records",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.9
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.8
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.3
+      }
+    }
+  },
+  {
+    "number": 14,
+    "slug": "ai-radiopharmacy-production-and-delivery",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.7
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.3
+      }
+    }
+  },
+  {
+    "number": 15,
+    "slug": "ai-occupational-radiation-dose-records",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.7
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.5
+      }
+    }
+  },
+  {
+    "number": 16,
+    "slug": "ai-donor-milk-bank-traceability",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.3
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 4.8
+      }
+    }
+  },
+  {
+    "number": 17,
+    "slug": "ai-tissue-and-eye-bank-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.3
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.6
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 4.7
+      }
+    }
+  },
+  {
+    "number": 18,
+    "slug": "ai-biobank-consent-and-specimen-access",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.3
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.6
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.1
+      }
+    }
+  },
+  {
+    "number": 19,
+    "slug": "ai-organ-procurement-logistics-coordinator",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.8
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.0
+      }
+    }
+  },
+  {
+    "number": 20,
+    "slug": "ai-forensic-laboratory-evidence-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.0
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.3
+      }
+    }
+  },
+  {
+    "number": 21,
+    "slug": "ai-academic-transfer-credit-evaluation",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.8
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.6
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 6.7
+      }
+    }
+  },
+  {
+    "number": 22,
+    "slug": "ai-academic-accreditation-evidence-workspace",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 4.0
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 4.5
+      }
+    }
+  },
+  {
+    "number": 23,
+    "slug": "ai-international-student-compliance-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.6
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 4.9
+      }
+    }
+  },
+  {
+    "number": 24,
+    "slug": "ai-jury-administration-and-service-scheduling",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.6
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.5
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.2
+      }
+    }
+  },
+  {
+    "number": 25,
+    "slug": "ai-victim-compensation-case-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.8
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.5
+      }
+    }
+  },
+  {
+    "number": 26,
+    "slug": "ai-commercial-fishing-quota-ledger",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.8
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.7
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.8
+      }
+    }
+  },
+  {
+    "number": 27,
+    "slug": "ai-ship-recycling-and-hazardous-materials-inventory",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.7
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.6
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 5.8
+      }
+    }
+  },
+  {
+    "number": 28,
+    "slug": "ai-rail-crossing-inventory-and-coordination",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.2
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.8
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.4
+      },
+      "build": {
+        "ok": true,
+        "seconds": 3.7
+      }
+    }
+  },
+  {
+    "number": 29,
+    "slug": "ai-telecom-number-porting-operations",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.6
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.6
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 4.8
+      }
+    }
+  },
+  {
+    "number": 30,
+    "slug": "ai-international-funeral-repatriation-coordinator",
+    "checks": {
+      "lint": {
+        "ok": true,
+        "seconds": 3.6
+      },
+      "types": {
+        "ok": true,
+        "seconds": 1.6
+      },
+      "unit": {
+        "ok": true,
+        "seconds": 0.5
+      },
+      "build": {
+        "ok": true,
+        "seconds": 4.9
+      }
+    }
+  }
+]
